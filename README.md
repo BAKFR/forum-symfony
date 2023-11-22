@@ -1,5 +1,5 @@
 Forum Symfony
--------------
+=============
 
 IMPORTANT : Je développe ce projet dans le but de prendre en main le framework Symfony et de m'autoformer sur les évolutions du langage PHP.
 Il n'a pas vocation à être utilisé sérieusement en production.
@@ -18,3 +18,12 @@ Prochaine étape:
   - [ ] Supprimer un compte
   - [ ] Définir si un compte est admin ou non
 
+
+Dev
+---
+
+```sh
+# Démarer un serveur de dev.
+cd public
+php -S localhost:8000
+```
